@@ -1,4 +1,4 @@
-## Olá, me chamo Samuel e estou cursando Ciência da Computação.
+## Olá, me chamo Samuel e estou cursando Ciência da Computação no Instituto Federal de Minas Gerais - IFMG, Campus Formiga.
 
 Ao decorrer do curso tive contato com diversas linguagens e técnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.<br>
 
