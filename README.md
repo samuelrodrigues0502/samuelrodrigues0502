@@ -29,7 +29,6 @@ Ao decorrer do curso tive contato com diversas linguagens e técnicas de program
   <img align="center" alt="Samuel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </div>
 
-<br> Atualmente tenho bastante familiaridade com Java e Python.<br>
 ---
 
 <div> 
