@@ -3,8 +3,10 @@
 Ao decorrer do curso tive contato com diversas linguagens e técnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelrodrigues0502&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrodrigues0502&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800" />
+  <a href="https://github.com/samuelrodrigues0502">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelrodrigues0502&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuelrodrigues0502&layout=compact&langs_count=6&theme=dracula" />
+  </a>
 </div>
 
 ---
